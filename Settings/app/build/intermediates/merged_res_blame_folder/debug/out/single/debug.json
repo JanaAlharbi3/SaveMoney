@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_transfer.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_transfer.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_all1.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_all1.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_invesment.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_invesment.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/menu_popup_menu.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/menu/popup_menu.xml"
+    },
+    {
+        "merged": "com.example.settings.app-merged_res-29:/layout_activity_report.xml.flat",
+        "source": "com.example.settings.app-main-31:/layout/activity_report.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_entertainment.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_entertainment.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_insurance.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_insurance.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/menu_popup2_menu.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/menu/popup2_menu.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_purchases.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_purchases.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_transfers2.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_transfers2.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_monthly_rp.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_monthly_rp.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_all2.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_all2.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/layout_activity_salary.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/layout/activity_salary.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/hessa/.gradle/daemon/7.4/com.example.settings.app-main-31:/xml/backup_rules.xml"
+    }
+]

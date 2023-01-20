@@ -1,0 +1,237 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.settings"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /Users/hessa/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.settings.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /Users/hessa/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /Users/hessa/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.settings.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] /Users/hessa/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /Users/hessa/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:5:5-105:19
+18        android:allowBackup="true"
+18-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /Users/hessa/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:7:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:8:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.Settings" >
+28-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:13:9-46
+29        <activity
+29-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:15:9-21:20
+30            android:name="com.example.settings.report"
+30-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:16:13-35
+31            android:exported="false" >
+31-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:17:13-37
+32            <meta-data
+32-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+33                android:name="android.app.lib_name"
+33-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+34                android:value="" />
+34-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+35        </activity>
+36        <activity
+36-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:22:9-28:20
+37            android:name="com.example.settings.entertainment"
+37-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:23:13-42
+38            android:exported="false" >
+38-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:24:13-37
+39            <meta-data
+39-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+40                android:name="android.app.lib_name"
+40-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+41                android:value="" />
+41-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+42        </activity>
+43        <activity
+43-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:29:9-35:20
+44            android:name="com.example.settings.insurance"
+44-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:30:13-38
+45            android:exported="false" >
+45-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:31:13-37
+46            <meta-data
+46-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+47                android:name="android.app.lib_name"
+47-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+48                android:value="" />
+48-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+49        </activity>
+50        <activity
+50-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:36:9-42:20
+51            android:name="com.example.settings.monthly_r_p"
+51-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:37:13-40
+52            android:exported="false" >
+52-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:38:13-37
+53            <meta-data
+53-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+54                android:name="android.app.lib_name"
+54-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+55                android:value="" />
+55-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+56        </activity>
+57        <activity
+57-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:43:9-49:20
+58            android:name="com.example.settings.invesment"
+58-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:44:13-38
+59            android:exported="false" >
+59-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:45:13-37
+60            <meta-data
+60-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+61                android:name="android.app.lib_name"
+61-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+62                android:value="" />
+62-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+63        </activity>
+64        <activity
+64-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:50:9-56:20
+65            android:name="com.example.settings.transfers2"
+65-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:51:13-39
+66            android:exported="false" >
+66-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:52:13-37
+67            <meta-data
+67-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+68                android:name="android.app.lib_name"
+68-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+69                android:value="" />
+69-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+70        </activity>
+71        <activity
+71-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:57:9-63:20
+72            android:name="com.example.settings.Purchases"
+72-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:58:13-38
+73            android:exported="false" >
+73-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:59:13-37
+74            <meta-data
+74-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+75                android:name="android.app.lib_name"
+75-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+76                android:value="" />
+76-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+77        </activity>
+78        <activity
+78-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:64:9-70:20
+79            android:name="com.example.settings.All2"
+79-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:65:13-33
+80            android:exported="false" >
+80-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:66:13-37
+81            <meta-data
+81-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+82                android:name="android.app.lib_name"
+82-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+83                android:value="" />
+83-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+84        </activity>
+85        <activity
+85-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:71:9-77:20
+86            android:name="com.example.settings.transfer"
+86-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:72:13-37
+87            android:exported="false" >
+87-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:73:13-37
+88            <meta-data
+88-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+89                android:name="android.app.lib_name"
+89-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+90                android:value="" />
+90-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+91        </activity>
+92        <activity
+92-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:78:9-84:20
+93            android:name="com.example.settings.Salary"
+93-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:79:13-35
+94            android:exported="false" >
+94-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:80:13-37
+95            <meta-data
+95-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+96                android:name="android.app.lib_name"
+96-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+97                android:value="" />
+97-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+98        </activity>
+99        <activity
+99-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:85:9-91:20
+100            android:name="com.example.settings.All1"
+100-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:86:13-33
+101            android:exported="false" >
+101-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:87:13-37
+102            <meta-data
+102-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+103                android:name="android.app.lib_name"
+103-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+104                android:value="" />
+104-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+105        </activity>
+106        <activity
+106-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:92:9-104:20
+107            android:name="com.example.settings.MainActivity"
+107-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:93:13-41
+108            android:exported="true" >
+108-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:94:13-36
+109            <intent-filter>
+109-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:95:13-99:29
+110                <action android:name="android.intent.action.MAIN" />
+110-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:96:17-69
+110-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:96:25-66
+111
+112                <category android:name="android.intent.category.LAUNCHER" />
+112-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:98:17-77
+112-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:98:27-74
+113            </intent-filter>
+114
+115            <meta-data
+115-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:18:13-20:36
+116                android:name="android.app.lib_name"
+116-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:19:17-52
+117                android:value="" />
+117-->/Users/hessa/AndroidStudioProjects/Settings/app/src/main/AndroidManifest.xml:20:17-33
+118        </activity>
+119
+120        <provider
+120-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+121            android:name="androidx.startup.InitializationProvider"
+121-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+122            android:authorities="com.example.settings.androidx-startup"
+122-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+123            android:exported="false" >
+123-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+124            <meta-data
+124-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+125                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+125-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+126                android:value="androidx.startup" />
+126-->[androidx.emoji2:emoji2:1.2.0] /Users/hessa/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+127            <meta-data
+127-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hessa/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+128                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+128-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hessa/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+129                android:value="androidx.startup" />
+129-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/hessa/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+130        </provider>
+131    </application>
+132
+133</manifest>
