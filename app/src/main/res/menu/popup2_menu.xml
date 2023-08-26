@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item4"
+        android:title="All"/>
+
+    <item
+        android:id="@+id/item5"
+        android:title="Purchases"/>
+
+    <item
+        android:id="@+id/item6"
+        android:title="transfers"/>
+
+    <item
+        android:id="@+id/item7"
+        android:title="invesment"/>
+
+    <item
+        android:id="@+id/item8"
+        android:title="monthly redmption payments"/>
+
+    <item
+        android:id="@+id/item9"
+        android:title="incurance and taxes"/>
+
+    <item
+        android:id="@+id/item10"
+        android:title="enertaiment"/>
+
+</menu>
